@@ -60,4 +60,9 @@ body{
     color: #000000;
     font-family: 'Montserrat', sans-serif;
 }
+.apresentacao__imagem {
+    width: 300px;
+    border-radius: 10px;
+}
+
  
