@@ -15,7 +15,10 @@ Este projeto foi desenvolvido como parte da minha prática com HTML e CSS. Criei
 
 ## 🔗 Acesse o projeto online
 
-📍 [Clique aqui para ver o site ao vivo](https://janamirelly.github.io/projeto-html-css/)
+📍 ## 🔗 Acesse o projeto
+
+👉 [Clique aqui para abrir o site em uma nova aba](https://janamirelly.github.io/projeto-html-css/)
+
 
 ## 🖼️ Imagem do projeto
 
@@ -24,4 +27,4 @@ Este projeto foi desenvolvido como parte da minha prática com HTML e CSS. Criei
 ## 👩‍💻 Desenvolvido por
 
 Janayna Mirelly  
-[LinkedIn](https://www.linkedin.com/in/janayna-mirelly-5aa8855) • [Portfólio](https://janamirelly.github.io)
+[LinkedIn](https://www.linkedin.com/in/janayna-mirelly-51aa8855) • [Portfólio](https://janamirelly.github.io)
