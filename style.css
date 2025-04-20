@@ -23,7 +23,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 40px;
+   
 }
 .apresentacao__conteudo{
     width: 615px;
@@ -61,9 +61,4 @@ body{
     color: #000000;
     font-family: 'Montserrat', sans-serif;
 }
-.apresentacao__imagem {
-    width: 300px;
-    border-radius: 10px;
-}
-
  
