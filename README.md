@@ -15,7 +15,7 @@ Este projeto foi desenvolvido como parte da minha prática com HTML e CSS. Criei
 
 ## 🔗 Acesse o projeto online
 
-📍 [Clique aqui para ver o site ao vivo](https://janamirelly.github.io/projeto-html-css/)
+📍 [Clique aqui para ver o site ao vivo](https://github.com/janamirelly/projeto-html-css.git)
 
 ## 🖼️ Imagem do projeto
 
