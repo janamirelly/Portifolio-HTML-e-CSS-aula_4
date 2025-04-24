@@ -23,7 +23,8 @@ Este projeto foi desenvolvido como parte da minha prática com HTML e CSS. Criei
 
 ## 🖼️ Imagem do projeto
 
-![Print do site](./Portifolio-HTML-e-CSS-aula_4/Imagem.png)
+![Print do site](./assets/img.jpg)
+
 
 ## 👩‍💻 Desenvolvido por
 
