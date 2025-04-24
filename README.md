@@ -20,13 +20,7 @@ Este projeto foi desenvolvido como parte da minha prática com HTML e CSS. Criei
 👉 [Projeto HTML e CSS - Acesse aqui!](https://janamirelly.github.io/Portifolio-HTML-e-CSS-aula_4/)
 
 
-
-## 🖼️ Imagem do projeto
-
-![Print do site](./assets/img.jpg)
+## 👩‍💻 Desenvolvido por Janayna Mirelly
 
 
-## 👩‍💻 Desenvolvido por
-
-Janayna Mirelly  
 [LinkedIn](https://www.linkedin.com/in/janayna-mirelly-51aa8855) • [Portfólio](https://janamirelly.github.io)
