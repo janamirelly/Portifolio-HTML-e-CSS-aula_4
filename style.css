@@ -118,17 +118,6 @@ body{
     font-weight: 400;
 }
 
-.apresentacao__imagem img {
-    max-width: 300px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(34, 212, 253, 0.3);
-}
 
-.apresentacao__imagem {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-left: 40px;
-}
 
  
