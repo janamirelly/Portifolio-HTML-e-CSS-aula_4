@@ -60,6 +60,7 @@ body{
 
 .apresentacao__conteudo{
     width: 615px;
+    flex: 1% 1% 60%;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -116,6 +117,24 @@ body{
     font-family: var(--font-secundaria);
     font-size: 24px;
     font-weight: 400;
+}
+apresentacao__imagem {
+    flex: 1 1 35%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+@media (max-width: 768px) {
+    .apresentacao {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .apresentacao__conteudo,
+    .apresentacao__imagem {
+        flex: 1 1 100%;
+    }
 }
 
 
