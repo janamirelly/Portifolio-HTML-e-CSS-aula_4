@@ -23,4 +23,4 @@ Este projeto foi desenvolvido como parte da minha prática com HTML e CSS. Criei
 ## 👩‍💻 Desenvolvido por Janayna Mirelly
 
 
-[LinkedIn](https://www.linkedin.com/in/janayna-mirelly-51aa8855) • [Portfólio](https://janamirelly.github.io)
+[LinkedIn](https://www.linkedin.com/in/janayna-mirelly-51aa8855) • [Portfólio](https://janamirelly.github.io/Portfolio/)
